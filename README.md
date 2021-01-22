@@ -1,5 +1,5 @@
 ### EradicatorLTSM
 
-#stock used atm : S&P 500 (^GSPC)
+# stock used atm : S&P 500 (^GSPC)
 
-#Framework : Keras
+# Framework : Keras
